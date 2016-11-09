@@ -1,0 +1,63 @@
+﻿@model IEnumerable<Shop.DataLayer.DbLayer.Photo>
+@using MvcFileUploader.HtmlHelper
+@using MvcFileUploader.Models
+@{
+    ViewBag.Title = "Edit";
+    var ui = "jquery".Equals(Request.Params["ui"]) ? UploadUI.JQueryUI : UploadUI.Bootstrap;
+    var toggleUi = ui == UploadUI.Bootstrap ? "jquery" : "bootstrap";
+
+    //setting layout based on ui
+    Layout = "~/Views/Shared/" + (ui == UploadUI.Bootstrap ? "_MvcFileUploaderLayout.cshtml" : "_MvcFileUploaderLayout_jui.cshtml");
+}
+@{ var x = 0;}}
+
+@foreach (var item in Model)
+{
+   
+            if (item.IsMain == true)
+            {
+                <img src="@item.PathPhoto" width="250" height="250" style="position:center" />
+            }
+            else
+            {
+                <img src="@item.PathPhoto" width="150" height="150" style="position:relative"/>
+            }
+
+      
+        @Html.ActionLink("Delete", "Delete", new { id = item.PhotoId })
+  //  @Html.ActionLink("Delete", "Delete", new { id = item.PhotoId })
+    x = item.GoodId;
+}
+@*<div>
+    <button type="button"
+            data-id="@x"
+            class="btn btn-primary addp">
+        Add Photo
+    </button>
+</div>
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+<script>
+    $(function () {
+        $('.addp').click(function () {
+            var id = $(this).attr('data-id');
+            $.get('/Photo/AddPhoto/', { id: id });
+
+        });
+    });
+
+    </script>*@
+
+<div class="well">
+    <legend>Upload Image</legend>
+    <p class="help-block">jpg/png size max 5 MB</p>
+    @(
+        Html.MvcFileUpload()
+        .UploadAt(Url.Action("UploadFile"))
+        .UIStyle(ui)
+        .WithFileTypes(@"/(\.|\/)(jpe?g|png)$/i")
+        .WithMaxFileSize(5000000)
+        .AddFormField("entityId", x.ToString())
+        .RenderInline("_MvcFileupload")
+    )
+
+</div>

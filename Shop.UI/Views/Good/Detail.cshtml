@@ -1,0 +1,50 @@
+﻿@model Shop.DataLayer.DbLayer.Good
+
+@{
+    ViewBag.Title = "Detail";
+}
+
+<h2>Detail</h2>
+
+<div>
+    <h4>Good</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.GoodName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.GoodName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ManufacturerId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ManufacturerId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PriceUsd)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PriceUsd)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Rest)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Rest)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "EditDetail", new { id = Model.GoodId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

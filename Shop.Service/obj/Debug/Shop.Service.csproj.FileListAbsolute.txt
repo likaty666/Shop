@@ -1,0 +1,28 @@
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.Service\bin\Debug\Shop.Service.dll.config
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.Service\bin\Debug\Shop.Service.dll
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.Service\bin\Debug\Shop.Service.pdb
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.Service\bin\Debug\EntityFramework.dll
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.Service\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.Service\bin\Debug\Shop.DataLayer.dll
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.Service\bin\Debug\Shop.Repository.dll
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.Service\bin\Debug\Shop.DataLayer.pdb
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.Service\bin\Debug\Shop.Repository.pdb
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.Service\bin\Debug\EntityFramework.xml
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.Service\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.Service\obj\Debug\Shop.Service.csprojResolveAssemblyReference.cache
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.Service\obj\Debug\Shop.Service.dll
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.Service\obj\Debug\Shop.Service.pdb
+C:\Users\student.STEP\Desktop\ShopExam\Shop.Service\bin\Debug\Shop.Service.dll.config
+C:\Users\student.STEP\Desktop\ShopExam\Shop.Service\bin\Debug\Shop.Service.dll
+C:\Users\student.STEP\Desktop\ShopExam\Shop.Service\bin\Debug\Shop.Service.pdb
+C:\Users\student.STEP\Desktop\ShopExam\Shop.Service\bin\Debug\EntityFramework.dll
+C:\Users\student.STEP\Desktop\ShopExam\Shop.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\student.STEP\Desktop\ShopExam\Shop.Service\bin\Debug\Shop.DataLayer.dll
+C:\Users\student.STEP\Desktop\ShopExam\Shop.Service\bin\Debug\Shop.Repository.dll
+C:\Users\student.STEP\Desktop\ShopExam\Shop.Service\bin\Debug\Shop.DataLayer.pdb
+C:\Users\student.STEP\Desktop\ShopExam\Shop.Service\bin\Debug\Shop.Repository.pdb
+C:\Users\student.STEP\Desktop\ShopExam\Shop.Service\bin\Debug\EntityFramework.xml
+C:\Users\student.STEP\Desktop\ShopExam\Shop.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\student.STEP\Desktop\ShopExam\Shop.Service\obj\Debug\Shop.Service.csprojResolveAssemblyReference.cache
+C:\Users\student.STEP\Desktop\ShopExam\Shop.Service\obj\Debug\Shop.Service.dll
+C:\Users\student.STEP\Desktop\ShopExam\Shop.Service\obj\Debug\Shop.Service.pdb

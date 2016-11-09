@@ -1,0 +1,19 @@
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.DataLayer\bin\Debug\Shop.DataLayer.dll.config
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.DataLayer\bin\Debug\Shop.DataLayer.dll
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.DataLayer\bin\Debug\Shop.DataLayer.pdb
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.DataLayer\bin\Debug\EntityFramework.dll
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.DataLayer\bin\Debug\EntityFramework.xml
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.DataLayer\obj\Debug\Shop.DataLayer.dll
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.DataLayer\obj\Debug\Shop.DataLayer.pdb
+C:\Users\student.STEP\Desktop\ShopExam\Shop.DataLayer\bin\Debug\Shop.DataLayer.dll.config
+C:\Users\student.STEP\Desktop\ShopExam\Shop.DataLayer\bin\Debug\Shop.DataLayer.dll
+C:\Users\student.STEP\Desktop\ShopExam\Shop.DataLayer\bin\Debug\Shop.DataLayer.pdb
+C:\Users\student.STEP\Desktop\ShopExam\Shop.DataLayer\bin\Debug\EntityFramework.dll
+C:\Users\student.STEP\Desktop\ShopExam\Shop.DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\student.STEP\Desktop\ShopExam\Shop.DataLayer\bin\Debug\EntityFramework.xml
+C:\Users\student.STEP\Desktop\ShopExam\Shop.DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\student.STEP\Desktop\ShopExam\Shop.DataLayer\obj\Debug\Shop.DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\student.STEP\Desktop\ShopExam\Shop.DataLayer\obj\Debug\Shop.DataLayer.dll
+C:\Users\student.STEP\Desktop\ShopExam\Shop.DataLayer\obj\Debug\Shop.DataLayer.pdb

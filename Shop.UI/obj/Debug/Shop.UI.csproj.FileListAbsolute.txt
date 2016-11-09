@@ -1,0 +1,194 @@
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\ApplicationInsights.config
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\roslyn\csc.exe
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\roslyn\System.Collections.Immutable.dll
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\roslyn\vbc.exe
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\roslyn\VBCSCompiler.exe
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\roslyn\VBCSCompiler.exe.config
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\Shop.UI.dll.config
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\Shop.UI.dll
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\Shop.UI.pdb
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\Antlr3.Runtime.dll
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\EntityFramework.dll
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\EntityFramework.SqlServer.dll
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\Microsoft.AI.Web.dll
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\Microsoft.AI.WindowsServer.dll
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\Microsoft.ApplicationInsights.dll
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\Microsoft.Owin.dll
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\Microsoft.Owin.Security.dll
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\Microsoft.Owin.Security.Google.dll
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\Microsoft.Web.Infrastructure.dll
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\Newtonsoft.Json.dll
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\Owin.dll
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\System.Web.Helpers.dll
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\System.Web.Mvc.dll
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\System.Web.Optimization.dll
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\System.Web.Razor.dll
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\System.Web.WebPages.Deployment.dll
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\System.Web.WebPages.dll
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\System.Web.WebPages.Razor.dll
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\WebGrease.dll
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\Microsoft.AI.Web.xml
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\Microsoft.AI.WindowsServer.xml
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\Microsoft.ApplicationInsights.xml
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\System.Web.Helpers.xml
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\System.Web.Mvc.xml
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\System.Web.Optimization.xml
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\System.Web.Razor.xml
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\System.Web.WebPages.xml
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\System.Web.WebPages.Deployment.xml
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\System.Web.WebPages.Razor.xml
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\Antlr3.Runtime.pdb
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\Newtonsoft.Json.xml
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\EntityFramework.xml
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\EntityFramework.SqlServer.xml
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\Microsoft.Owin.xml
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\Microsoft.Owin.Security.xml
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\Microsoft.Owin.Security.Google.xml
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\obj\Debug\Shop.UI.dll
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\obj\Debug\Shop.UI.pdb
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\Ninject.dll
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\Ninject.Web.Common.dll
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\Ninject.Web.Mvc.dll
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\WebActivatorEx.dll
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\Ninject.xml
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\Ninject.Web.Common.xml
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\Ninject.Web.Mvc.xml
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\Shop.DataLayer.dll
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\Shop.Repository.dll
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\Shop.Service.dll
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\Shop.DataLayer.pdb
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\Shop.Repository.pdb
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\Shop.Service.pdb
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\obj\Debug\Shop.UI.csprojResolveAssemblyReference.cache
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\MvcFileUploader.dll
+c:\users\екатерина\documents\visual studio 2015\Projects\ShopExam\Shop.UI\bin\MvcFileUploader.pdb
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\ApplicationInsights.config
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\roslyn\csc.exe
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\roslyn\vbc.exe
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\Shop.UI.dll.config
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\Shop.UI.dll
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\Shop.UI.pdb
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\Antlr3.Runtime.dll
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\EntityFramework.dll
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\Microsoft.AI.Web.dll
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\Microsoft.Owin.dll
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\Microsoft.Owin.Security.dll
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\MvcFileUploader.dll
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\Newtonsoft.Json.dll
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\Ninject.dll
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\Ninject.Web.Common.dll
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\Ninject.Web.Mvc.dll
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\Owin.dll
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\Shop.DataLayer.dll
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\Shop.Repository.dll
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\Shop.Service.dll
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\System.Web.Helpers.dll
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\System.Web.Mvc.dll
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\System.Web.Optimization.dll
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\System.Web.Razor.dll
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\System.Web.WebPages.dll
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\System.Web.WebPages.Razor.dll
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\WebActivatorEx.dll
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\WebGrease.dll
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\Shop.DataLayer.pdb
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\Shop.Repository.pdb
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\Shop.Service.pdb
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\Microsoft.AI.Web.xml
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\MvcFileUploader.pdb
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\Ninject.xml
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\Ninject.Web.Common.xml
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\Ninject.Web.Mvc.xml
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\System.Web.Helpers.xml
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\System.Web.Mvc.xml
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\System.Web.Optimization.xml
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\System.Web.Razor.xml
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\System.Web.WebPages.xml
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\System.Web.WebPages.Razor.xml
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\Antlr3.Runtime.pdb
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\Newtonsoft.Json.xml
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\EntityFramework.xml
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\Microsoft.Owin.xml
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\Microsoft.Owin.Security.xml
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\obj\Debug\Shop.UI.csprojResolveAssemblyReference.cache
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\obj\Debug\Shop.UI.dll
+C:\Users\student.STEP\Desktop\ShopExam\Shop.UI\obj\Debug\Shop.UI.pdb

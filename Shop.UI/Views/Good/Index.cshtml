@@ -1,0 +1,76 @@
+﻿@model IEnumerable<Shop.UI.Models.ViewModelGood>
+@{
+    ViewBag.Title = "Index";
+}
+<style>
+    p.clip {
+        white-space: nowrap;
+        overflow: hidden;
+        padding: 5px;
+        text-overflow: ellipsis;
+    }
+</style>
+<h2>Goods</h2>
+
+<div class="row">
+    @foreach (var item in Model)
+    {
+        string mylink = "/Good/Show/" + item.GoodId;
+        <div id="dataListItem" class="col-xs-12 col-sm-6 col-md-4">
+            @if (item.PathPhoto == null || item.IsMain == true)
+            {
+                if (item.PathPhoto == null)
+                {
+                    <a href="@mylink" title="No photo">
+                        <img src="~/Content/uploads/NoPhoto.jpg" height="150" />
+                    </a>
+                }
+                else {
+                    <a href="@mylink" title="Main photo">
+                        <img src="@item.PathPhoto" width="150" height="150" />
+                    </a>
+                }
+                <br />
+                <p class="clip">
+                    @Html.DisplayFor(p => item.GoodName)
+                    Price @Html.DisplayFor(p => item.PriceUsd)
+                    @*Change @Html.DisplayFor(p => item.Rest)*@
+                </p>
+                <div>
+                    <button type="button"
+                            data-id="@item.GoodId"
+                            class="btn btn-primary cart">
+                        Add to basket
+                    </button>
+                    <button type="button"
+                            data-id="@item.GoodId"
+                            class="btn btn-primary edit">
+                        Detail
+                    </button>
+                </div>
+
+            }
+            
+            
+        </div>
+    }
+
+</div>
+
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+<script>
+    $(function () {
+        $('.cart').click(function () {
+            var obj = {};
+            var id = $(this).attr('data-id');
+            $.get('/Good/Cart/', { id: id });
+
+        });
+        $('.edit').click(function () {
+            var obj = {};
+            var id = $(this).attr('data-id');
+            window.location = '/Good/Detail/' + id;
+
+        });
+    });
+</script>
